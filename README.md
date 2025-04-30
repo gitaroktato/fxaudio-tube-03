@@ -1,5 +1,6 @@
 # fxaudio-tube-03
 A dedicated page for reverse engineering the FXAudio Tube-03 preamp.
+![image](img/schematic_front.png)
 
 
 ## Tubes
@@ -14,6 +15,9 @@ The compatible tubes found on the internet are:
 
 ## Op-Amps
 - AD827JN+MUSES8820 ([reference](https://www.youtube.com/watch?v=S-pgNuk6AKQ))
+
+## Manual
+[Manual PDF](manual/fx-audio-tube-03-user-manual.pdf)
 
 ## Tutorials
 - [Tube matching 101](https://tubemaze.info/tube-matching-101)
