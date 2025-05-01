@@ -19,6 +19,9 @@ The compatible tubes found on the internet are:
 ## Op-Amps
 - AD827JN+MUSES8820 ([reference](https://www.youtube.com/watch?v=S-pgNuk6AKQ))
 
+## Power Supply
+The unit is shipped with an 12V 1A power supply using 
+
 ## Manual
 [Manual PDF](manual/fx-audio-tube-03-user-manual.pdf)
 
