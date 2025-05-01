@@ -7,6 +7,8 @@ A dedicated page for reverse engineering the FXAudio Tube-03 preamp.
 ## Tubes
 Comes with a 6K4 (EF95) Chinese tube.
 
+<img src="img/parts/tubes.jpg" height="300">
+
 ### Compatible Tubes
 The compatible tubes found on the internet are:
 
