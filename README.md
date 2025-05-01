@@ -5,7 +5,7 @@ A dedicated page for reverse engineering the FXAudio Tube-03 preamp.
 
 
 ## Tubes
-Comes with a 6K4 (EF95) Chinese tube.
+Comes with a 6K4 (EF95) Chinese vacuum tubes.
 
 <img src="img/parts/tubes.jpg" height="300">
 
