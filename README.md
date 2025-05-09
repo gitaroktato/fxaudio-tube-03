@@ -25,8 +25,35 @@ Using [B7G](http://www.r-type.org/static/baseb7g.htm) sockets for tubes.
 - MUSES8920D+LM4562 ([reference](https://forum.hifiguides.com/t/chinese-tube-power-pre-amps-tube-buffers/6646/165))
 - MUSES8920, LM49860, LM4562, Burson V5i-D, Sparkos SS3602([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2731379?utm_source=linkshare))
 
+## Capacitors
+### Original capacitor values
+#### PSU noise filters
+E102 - 1000uF 16V electrolytic LOWESR (ChongX VEHT)      
+E103 - 22uF 250V electrolytic (ChongX VEHT)              
+E104 - 22uF 250V electrolytic (ChongX VEHT)
 
-## Changing Onboard Capacitors
+#### Input / Output
+**Input**
+C213 - 1uF 450V film (BMPP)
+C214 - 1uF 450V film (BMPP)
+
+**Output**
+E301 - 22uF 250V electrolytic LOWESR (ChongX VEHT)
+E302 - 22uF 250V electrolytic LOWESR (ChongX VEHT)
+C301 - 1uF 63V film (A1K9)
+C302 - 1uF 450V film (BMPP)
+C303 - 1uF 63V film (A1K9)
+C304 - 1uF 450V film (BMPP)
+
+#### Op-Amp
+E101 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E201 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E202 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E203 - 10uF 50V electrolytic LOWESR (ChongX VEHT)
+E204 - 10uF 50V electrolytic LOWESR (ChongX VEHT)
+E207 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
+
+### Changing Onboard Capacitors
 
 4 x WIMA MKP4 1uf 250v
 2 x WIMA MKS4 1uf 100v
@@ -38,7 +65,10 @@ WIMA 1uF/63V and electrolytic caps from 100uF/16V to 220uF/25V
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13730561))
 
 ## Power Supply
-The unit is shipped with an 12V 1A power supply using 
+The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).  
+![psu](img/parts/psu.jpg)
+![plug](img/parts/psu-plug.jpg)
+
 
 ## Manual
 [Manual PDF](manual/fx-audio-tube-03-user-manual.pdf)
