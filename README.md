@@ -24,6 +24,8 @@ Using [B7G](http://www.r-type.org/static/baseb7g.htm) sockets for tubes.
 - AD827JN+MUSES8820 ([reference](https://www.youtube.com/watch?v=S-pgNuk6AKQ))
 - MUSES8920D+LM4562 ([reference](https://forum.hifiguides.com/t/chinese-tube-power-pre-amps-tube-buffers/6646/165))
 - MUSES8920, LM49860, LM4562, Burson V5i-D, Sparkos SS3602([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2731379?utm_source=linkshare))
+- AD8672 and LM4562 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-224#post-16278998))
+- Tone control Sparkos SS3602, volume control AD8066 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
 
 ## Capacitors
 ### Original capacitor values
@@ -98,6 +100,44 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 <img src="img/mods/81d2943209ab0220c90312e0348ea5b156275322.jpeg" height="100">  
 
 ([reference](https://forum.hifiguides.com/t/chinese-tube-power-pre-amps-tube-buffers/6646/165))
+
+#### #4
+- 4 x WIMA MKP4 1uf 250v (C213, C214, C302, C304) ⚠️voltage smaller than original
+- 2 x WIMA MKS4 1uf 100v (C301, C303) 💡voltage larger than original
+- 4 x Nichicon KT 220uf 25v (E101, E201, E202, E207) 💡capacitance larger than original
+
+<img src="img/mods/B6587034-C694-4F36-BD31-1AA4AB804A6F.jpeg" height="100">
+
+([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-130#post-14179389))
+
+#### #5
+- Group 1: Wima MKS4 1uF/100V 10% (C213, C214, C302, C304) ⚠️voltage smaller than original
+- Group 2: Wima MKS2 2.2uF/63V(C301, C303) 💡capacitance larger than original
+
+<img src="img/mods/upload_2023-3-17_14-50-14.png" height="100">
+
+([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-224#post-16278998))
+
+#### #6
+
+- replaced the 1.0uF 250V film capacitor with ERO MKT 1822 in parallel with ERO MKP 1837 0.01uF 250V x4  (C213, C214, C302, C304) ⚠️voltage smaller than original
+- replaced the 1.0uF 100V film capacitor with a Wima mks2 x2 (C301, C303) 💡voltage larger than original
+- replaced the 10uF 50V electrolytic capacitor with a Wima mks2 film capacitor x2 (E203, E204) ❓not visible
+- replaced the 22uF 250V electrolytic capacitor with a Rubycon RX30 x4 (E103, E104)
+- replaced electrolytic capacitors 1000uF 16V with Elna 1000uF 16V x4 in parallel  (E102)
+- replace the plastic tube socket with a ceramic one that has a gold-plated connector x2
+- replaced the 100uF 16V electrolytic capacitor with a Panasonic os-con sepc 100uF 16V very low esr solid capacitor x4 (E101, E201, E202, E207)
+- replaced the stock tube with Mullard M8100 x2
+- replaced the tone control opamp with a sparkos SS3602
+- replaced the volume control opamp with an AD8066
+
+<img src="img/mods/IMG_20240118_191525.jpg" height="100">
+<img src="img/mods/IMG_20240120_131047.jpg" height="100">
+<img src="img/mods/IMG_20240120_131129.jpg" height="100">
+<img src="img/mods/IMG_20240120_131154.jpg" height="100">
+<img src="img/mods/IMG_20240120_131226.jpg" height="100">
+
+([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
 
 ## Power Supply
 The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).
