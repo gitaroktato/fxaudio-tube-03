@@ -66,6 +66,8 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 
 ### Changing Onboard Capacitors
 
+#### #1
+
 - 4 x WIMA MKP4 1uF 250v (C213, C214, C302, C304) ⚠️voltage smaller than original
 - 2 x WIMA MKS4 1uF 100v (C301, C303) 💡voltage larger than original
 - 4 x Nichicon KT 220uF 25v (E101, E201, E202, E207) 💡capacitance larger than original
@@ -77,9 +79,25 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13997979))
 
+#### #2
 
-WIMA 1uF/63V and electrolytic caps from 100uF/16V to 220uF/25V
+- WIMA 1uF/63V (C301, C303)
+- electrolytic caps from 100uF/16V to 220uF/25V  (E201, E202, E207) 💡voltage larger than original
+
+<img src="img/mods/20200423_211556.jpg" height="100">  
+<img src="img/mods/20200423_211614.jpg" height="100">  
+
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13730561))
+
+#### #3
+- Caps are WIMA, Nichicon, and the one Panasonic in the power supply section. ⚠️capacitance not mentioned, not visible
+- film caps settling on 1.5uF (C301, C303) ❓not visible
+- 2.2uF (C213, C214, C302, C304) ⚠️ voltage less than original
+- p/s cap from 1000uF to 2200uF (E102)
+
+<img src="img/mods/81d2943209ab0220c90312e0348ea5b156275322.jpeg" height="100">  
+
+([reference](https://forum.hifiguides.com/t/chinese-tube-power-pre-amps-tube-buffers/6646/165))
 
 ## Power Supply
 The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).
