@@ -119,8 +119,8 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 - replaced the 1.0uF 250V film capacitor with ERO MKT 1822 in parallel with ERO MKP 1837 0.01uF 250V x4  (C213, C214, C302, C304) ⚠️voltage smaller than original
 - replaced the 1.0uF 100V film capacitor with a Wima mks2 x2 (C301, C303) 💡voltage larger than original
 - replaced the 10uF 50V electrolytic capacitor with a Wima mks2 film capacitor x2 (E203, E204) ❓not visible
-- replaced the 22uF 250V electrolytic capacitor with a Rubycon RX30 x4 (E103, E104)
-- replaced electrolytic capacitors 1000uF 16V with Elna 1000uF 16V x4 in parallel  (E102)
+- replaced the 22uF 250V electrolytic capacitor with a Rubycon RX30 x4 (E103, E104, E301, E302)
+- replaced electrolytic capacitors 1000uF 16V with Elna 1000uF 16V x4 in parallel (E102)💡capacitance larger than original
 - replace the plastic tube socket with a ceramic one that has a gold-plated connector x2
 - replaced the 100uF 16V electrolytic capacitor with a Panasonic os-con sepc 100uF 16V very low esr solid capacitor x4 (E101, E201, E202, E207)
 - replaced the stock tube with Mullard M8100 x2
