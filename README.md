@@ -74,10 +74,7 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 - 2 x WIMA MKS4 1uF 100v (C301, C303) 💡voltage larger than original
 - 4 x Nichicon KT 220uF 25v (E101, E201, E202, E207) 💡capacitance larger than original
 
-<img src="img/mods/camphoto_1804928587.JPG" height="100">  
-<img src="img/mods/IMG_4516.JPG" height="100">  
-<img src="img/mods/IMG_4517.JPG" height="100">   
-<img src="img/mods/IMG_4518.JPG" height="100">  
+<img src="img/mods/camphoto_1804928587.JPG" height="100"> <img src="img/mods/IMG_4516.JPG" height="100"> <img src="img/mods/IMG_4517.JPG" height="100"> <img src="img/mods/IMG_4518.JPG" height="100">  
 
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13997979))
 
@@ -86,8 +83,7 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 - WIMA 1uF/63V (C301, C303)
 - electrolytic caps from 100uF/16V to 220uF/25V  (E201, E202, E207) 💡voltage larger than original
 
-<img src="img/mods/20200423_211556.jpg" height="100">  
-<img src="img/mods/20200423_211614.jpg" height="100">  
+<img src="img/mods/20200423_211556.jpg" height="100"> <img src="img/mods/20200423_211614.jpg" height="100">  
 
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13730561))
 
@@ -131,11 +127,7 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 - replaced the tone control opamp with a sparkos SS3602
 - replaced the volume control opamp with an AD8066
 
-<img src="img/mods/IMG_20240118_191525.jpg" height="100">
-<img src="img/mods/IMG_20240120_131047.jpg" height="100">
-<img src="img/mods/IMG_20240120_131129.jpg" height="100">
-<img src="img/mods/IMG_20240120_131154.jpg" height="100">
-<img src="img/mods/IMG_20240120_131226.jpg" height="100">
+<img src="img/mods/IMG_20240118_191525.jpg" height="100"> <img src="img/mods/IMG_20240120_131047.jpg" height="100"> <img src="img/mods/IMG_20240120_131129.jpg" height="100"> <img src="img/mods/IMG_20240120_131154.jpg" height="100"> <img src="img/mods/IMG_20240120_131226.jpg" height="100">
 
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
 
