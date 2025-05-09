@@ -27,37 +27,54 @@ Using [B7G](http://www.r-type.org/static/baseb7g.htm) sockets for tubes.
 
 ## Capacitors
 ### Original capacitor values
+
+<img src="img/pcb/capacitors_with_labeling.png" height="300"> 
+
 #### PSU noise filters
-E102 - 1000uF 16V electrolytic LOWESR (ChongX VEHT)      
-E103 - 22uF 250V electrolytic (ChongX VEHT)              
-E104 - 22uF 250V electrolytic (ChongX VEHT)
+ ID | Type 
+ -- | ---- 
+E102 | 1000uF 16V electrolytic LOWESR (ChongX VEHT)      
+E103 | 22uF 250V electrolytic (ChongX VEHT)              
+E104 | 22uF 250V electrolytic (ChongX VEHT)
 
 #### Input / Output
 **Input**
-C213 - 1uF 450V film (BMPP)
-C214 - 1uF 450V film (BMPP)
+ ID | Type 
+ -- | ---- 
+C213 | 1uF 450V film (BMPP)
+C214 | 1uF 450V film (BMPP)
 
 **Output**
-E301 - 22uF 250V electrolytic LOWESR (ChongX VEHT)
-E302 - 22uF 250V electrolytic LOWESR (ChongX VEHT)
-C301 - 1uF 63V film (A1K9)
-C302 - 1uF 450V film (BMPP)
-C303 - 1uF 63V film (A1K9)
-C304 - 1uF 450V film (BMPP)
+ ID | Type 
+ -- | ---- 
+E301 | 22uF 250V electrolytic LOWESR (ChongX VEHT)
+E302 | 22uF 250V electrolytic LOWESR (ChongX VEHT)
+C301 | 1uF 63V film (A1K9)
+C302 | 1uF 450V film (BMPP)
+C303 | 1uF 63V film (A1K9)
+C304 | 1uF 450V film (BMPP)
 
 #### Op-Amp
-E101 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
-E201 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
-E202 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
-E203 - 10uF 50V electrolytic LOWESR (ChongX VEHT)
-E204 - 10uF 50V electrolytic LOWESR (ChongX VEHT)
-E207 - 100uF 25V electrolytic LOWESR (ChongX VEHT)
+ ID | Type 
+ -- | ---- 
+E101 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E201 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E202 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
+E203 | 10uF 50V electrolytic LOWESR (ChongX VEHT)
+E204 | 10uF 50V electrolytic LOWESR (ChongX VEHT)
+E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 
 ### Changing Onboard Capacitors
 
-4 x WIMA MKP4 1uf 250v
-2 x WIMA MKS4 1uf 100v
-4 x Nichicon KT 220uf 25v
+- 4 x WIMA MKP4 1uF 250v (C213, C214, C302, C304) ⚠️voltage smaller than original
+- 2 x WIMA MKS4 1uF 100v (C301, C303) 💡voltage larger than original
+- 4 x Nichicon KT 220uF 25v (E101, E201, E202, E207) 💡capacitance larger than original
+
+<img src="img/mods/camphoto_1804928587.JPG" height="100">  
+<img src="img/mods/IMG_4516.JPG" height="100">  
+<img src="img/mods/IMG_4517.JPG" height="100">   
+<img src="img/mods/IMG_4518.JPG" height="100">  
+
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13997979))
 
 
@@ -65,9 +82,9 @@ WIMA 1uF/63V and electrolytic caps from 100uF/16V to 220uF/25V
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/post-13730561))
 
 ## Power Supply
-The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).  
-![psu](img/parts/psu.jpg)
-![plug](img/parts/psu-plug.jpg)
+The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).
+<img src="img/parts/psu.jpg" height="300">  
+<img src="img/parts/psu-plug.jpg" height="300"> 
 
 
 ## Manual
