@@ -20,14 +20,16 @@ Using [B7G](http://www.r-type.org/static/baseb7g.htm) sockets for tubes.
 
 
 ## Op-Amps
-Using two NE5532P dual op-amps as the stock configuration
+Using two NE5532P dual op-amps as the stock configuration ([datasheet](https://www.ti.com/lit/ds/symlink/ne5532a.pdf))
 <img src="img/pcb/op-amp.jpg" height="300">
+
+
 
 ### Possible op-amp upgrades
 
 - AD827JN+MUSES8820 ([reference](https://www.youtube.com/watch?v=S-pgNuk6AKQ))
 - MUSES8920D+LM4562 ([reference](https://forum.hifiguides.com/t/chinese-tube-power-pre-amps-tube-buffers/6646/165))
-- MUSES8920, LM49860, LM4562, Burson V5i-D, Sparkos SS3602([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2731379?utm_source=linkshare))
+- MUSES8920, LM49860, LM4562, Burson V5i-D, Sparkos SS3602 ([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2731379?utm_source=linkshare))
 - AD8672 and LM4562 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-224#post-16278998))
 - Tone control Sparkos SS3602, volume control AD8066 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
 - OPA2134PA or TL082CP ([reference](https://www.youtube.com/watch?v=AL3K0mO1Iok))
