@@ -1,7 +1,7 @@
 # fxaudio-tube-03
 A dedicated page for reverse engineering the FXAudio Tube-03 preamp.
 
-![image](img/schematic_front.png)
+<img src="img/schematic_front.png" width="300"> <img src="img/pcb/IMG_20250509_105122.jpg" width="300">
 
 
 ## Tubes
@@ -14,6 +14,10 @@ The compatible tubes found on the internet are:
 
 6J1, 6ж1П, 6AK5, 6BC5, 403A/B, 5654, EF95, CV850, 6J2, 6ж2П, 6AS6, CV2522, CV4011, 6J3, 6ж3П, EF94, CV848, 6BC6, 6AG5, 6J4, 6ж4, 6136, 6BX6, 6AC7, 6AU6, 6J5, 6ж5П, CV2521, 6F36, 6AH6, 6AN5, 6K4, EF93, 6K5, 6K4П, 6BA6, 6DA6, 5749 ([reference](https://doukaudio.com/products/mini-vacuum-tube-headphone-amplifier-hifi-stereo-desktop-audio-pre-amplifier))
 
+Vokshod 6J1P-EV  ([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2725241?utm_source=linkshare))
+6ZS1P-EV  ([reference](https://prohardver.hu/tema/fulhallgato_erositok_dacs_headamps_headphone_amplifiers/hsz_87015-87015.html))
+
+6J1, 6AK5, 6AJ5, 5654, 403B, 6096, M8100 ([reference](https://www.youtube.com/watch?v=AL3K0mO1Iok))
 
 ### Tube Socket
 Using [B7G](http://www.r-type.org/static/baseb7g.htm) sockets for tubes.
@@ -33,6 +37,9 @@ Using two NE5532P dual op-amps as the stock configuration ([datasheet](https://w
 - AD8672 and LM4562 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-224#post-16278998))
 - Tone control Sparkos SS3602, volume control AD8066 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
 - OPA2134PA or TL082CP ([reference](https://www.youtube.com/watch?v=AL3K0mO1Iok))
+- Burson V5i-D x2 ([reference](https://drop.com/buy/fx-audio-tube-03-preamp-buffer/talk/2725241?utm_source=linkshare))
+- OPA1656 x2 ([reference](https://audiokarma.org/forums/index.php?threads/a-review-of-fx-audio-6j1-tube-preamp-not.916958/post-13849693))
+- MUSES01, MUSES02 ([reference](https://toanvoaudio.vn/shop/fx-audio-tube-03-mod-full-opan-hiend-muses01-muses02/))
 
 ## Capacitors
 ### Original capacitor values
@@ -137,6 +144,13 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 <img src="img/mods/IMG_20240118_191525.jpg" height="100"> <img src="img/mods/IMG_20240120_131047.jpg" height="100"> <img src="img/mods/IMG_20240120_131129.jpg" height="100"> <img src="img/mods/IMG_20240120_131154.jpg" height="100"> <img src="img/mods/IMG_20240120_131226.jpg" height="100">
 
 ([reference](https://audiokarma.org/forums/index.php?threads/fx-audio-6j1-tube-preamp-a-31-wonder.848535/page-233#post-16876546))
+
+#### #7
+- WIMA MKP4 1.0uF 250V film (C213, C214, C302, C304) ⚠️voltage smaller than original
+- WIMA MKS4 1.0uF 100V film (C301, C303) 💡voltage larger than original
+ <img src="img/mods/20230716_151626.jpg" height="100"> <img src="img/mods/20230716_151644.jpg" height="100"> <img src="img/mods/20230716_151700.jpg" height="100">
+
+([reference](https://audiokarma.org/forums/index.php?threads/redux-and-more-fx-audio-6j1-tube-preamp-a-31-wonder.980897/page-3#post-16522331)])
 
 ## Power Supply
 The unit is shipped with an 12V 1A power supply using a standard P1J connector (DC plug).
