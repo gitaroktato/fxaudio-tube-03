@@ -148,6 +148,7 @@ E207 | 100uF 25V electrolytic LOWESR (ChongX VEHT)
 #### #7
 - WIMA MKP4 1.0uF 250V film (C213, C214, C302, C304) ⚠️voltage smaller than original
 - WIMA MKS4 1.0uF 100V film (C301, C303) 💡voltage larger than original
+
  <img src="img/mods/20230716_151626.jpg" height="100"> <img src="img/mods/20230716_151644.jpg" height="100"> <img src="img/mods/20230716_151700.jpg" height="100">
 
 ([reference](https://audiokarma.org/forums/index.php?threads/redux-and-more-fx-audio-6j1-tube-preamp-a-31-wonder.980897/page-3#post-16522331)])
