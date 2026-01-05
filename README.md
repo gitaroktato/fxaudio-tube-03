@@ -175,6 +175,7 @@ The unit is shipped with an 12V 1A power supply using a standard P1J connector (
 ### Tubes
 
 Added Vokshod 6ж1П-EB tubes.
+
 <img src="img/mods/self/1746776622830.jpg" height="300">
 <img src="img/mods/self/4e870f50-19b2-400e-815d-7ab143375308.DSC_0267.JPG" height="300">
 <img src="img/mods/self/1746776622816.jpg" height="300">
@@ -182,7 +183,8 @@ Added Vokshod 6ж1П-EB tubes.
 ### Op-Amps
 
 Using MUSES8820 for both sockets.
-<img src="IMG_20250501_133515.jpg" height="300">
+
+<img src="img/mods/self/IMG_20250501_133515.jpg" height="300">
 
 ## Manual
 
